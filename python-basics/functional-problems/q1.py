@@ -1,5 +1,8 @@
 #Q1
 
+from math import sqrt
+
+
 def matrix(rows, cols):
     mat = []
     for i in range(rows):
@@ -11,4 +14,14 @@ def matrix(rows, cols):
         print(" ".join(row))
     print(mat)
         
-matrix(4,5)
+matrix(3,3)
+
+
+
+
+        
+
+
+
+
+
